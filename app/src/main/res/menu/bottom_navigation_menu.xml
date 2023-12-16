@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_more"
+        android:icon="@drawable/bearbuttonico"
+        android:title=""
+        />
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/transcircle"
+        android:title="" />
+
+    <item
+        android:id="@+id/menu_calender"
+        android:icon="@drawable/calendar"
+        android:title="" />
+</menu>
