@@ -50,7 +50,7 @@
                 android:layout_height="96dp"
                 android:layout_weight="1"
                 android:layout_marginStart="8dp"
-                android:text="13\u00B0"
+                android:text="-11\u00B0"
                 android:textAlignment="center"
                 android:textColor="@color/text_color"
                 android:textSize="64sp"
